@@ -288,7 +288,7 @@ const Dashboard = () => {
               <Item className='d-flex justify-content-between' >
                 <div>
                   <Typography variant="h6" style={{ marginBottom: "20px", fontWeight: "600", fontSize: "15px" }}>Net Profit</Typography>
-                  <Typography variant="h3" style={{ fontWeight: "700", fontStyle: "normal", fontSize: "32px" }}>$6759.25</Typography>
+                  <Typography variant="h3" style={{ fontWeight: "700", fontStyle: "normal", fontSize: "32px" }}>$6758.25</Typography>
                 </div>
                 <div>
                   <CircularProgress variant="determinate" value={70} style={{ color: '#4caf50', marginTop: 16 }} />
